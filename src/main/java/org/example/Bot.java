@@ -33,6 +33,7 @@ public final double KELVIN = 273.15;
             list.add(new City("Витебск", "55.1904", "30.2049"));
             list.add(new City("Гомель", "53.893009", "27.567444"));
             list.add(new City("Гродно", "53.6693538", "23.8131306"));
+            list.add(new City("Hrodna", "53.6693538", "23.8131306"));
             list.add(new City("Могилёв", "53.9086685", "30.3429108"));
             list.add(new City("Могилев", "53.9086685", "30.3429108"));
 
